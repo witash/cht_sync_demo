@@ -1,0 +1,4 @@
+packages:
+  - git: "https://github.com/medic/cht-pipeline"
+    revision: "v1.3.1"
+
